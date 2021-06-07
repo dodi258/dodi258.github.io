@@ -1,3 +1,6 @@
+# dodi258.github.io - Blog
+
+-------------
 # Gatsby Starter Blog Boost
 
 Blog Starter for a Gatsby project, built using Netlify CMS.
@@ -52,3 +55,7 @@ git pull origin master
 ```
 
 Also, if you run into `childImageSharp` errors. It can often occur when Gatsby isn't accurately keeping track of images. Delete your _cache_ and _public_ folders before reloading the project. In this project the images live in the `/static/images/`. Make sure whatever images you're trying to load are in your project and spelled correctly.
+
+
+
+
