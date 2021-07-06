@@ -1,22 +1,27 @@
 [
   {
-    "name": "Topic 1",
+    "name": "Java",
     "slug": "topic-1",
     "image": "../../static/images/topic1logo.jpg"
   },
   {
-    "name": "Topic 2",
+    "name": "Spring",
     "slug": "topic-2",
     "image": "../../static/images/topic2logo.jpg"
   },
   {
-    "name": "Topic 3",
+    "name": "Network",
     "slug": "topic-3",
     "image": "../../static/images/topic3logo.jpg"
   },
   {
-    "name": "Topic 4",
+    "name": "Study",
     "slug": "topic-4",
+    "image": "../../static/images/topic4logo.jpg"
+  },
+  {
+    "name": "Application",
+    "slug": "topic-5",
     "image": "../../static/images/topic4logo.jpg"
   }
 ]
